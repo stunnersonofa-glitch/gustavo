@@ -30,4 +30,7 @@ git remote add origin https://github.com/Stunnersonof/Stunner-GodMode-Capital.gi
 git add .
 git commit -m "Brand upgrade: GodMode activated"
 git branch -M main
-git push -u origin main
+git push -u origin maingit init
+git remote add origin https://github.com/Stunnersonof/Stunner-GodMode-Capital.git
+git add .
+git commit -m "Brand upgrade: GodMode activated"
