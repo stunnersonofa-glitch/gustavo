@@ -1,4 +1,11 @@
-<section style="background:black; color:white; padding:40px; text-align:center; font-family:Arial, sans-serif;">
+───────────────
+ G.A.S PRIVATE PASS
+───────────────
+ID: BRICK-001
+RANK: FOUNDER 👑
+STATUS: ACTIVE
+───────────────
+Purpose. Profit. Power.<section style="background:black; color:white; padding:40px; text-align:center; font-family:Arial, sans-serif;">
   <h1 style="color:gold; font-size:42px; margin-bottom:10px;">Dollar DeLaRue™</h1>
   <h3 style="font-size:20px; color:white; margin-bottom:20px;">
     Where Digital Wealth Gets Minted 💸
