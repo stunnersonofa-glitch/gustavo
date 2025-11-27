@@ -1,4 +1,9 @@
-───────────────
+<button class="finance-office-btn">
+  FINANCE OFFICE 🚀
+</button><button class="finance-office-btn"
+        onclick="location.href='finance.html'">
+  FINANCE OFFICE 🚀
+</button>───────────────
  G.A.S PRIVATE PASS
 ───────────────
 ID: BRICK-001
